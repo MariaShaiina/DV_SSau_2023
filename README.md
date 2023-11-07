@@ -1,5 +1,5 @@
 # DV_SSau_2023
-# Data Visualization 
+Data Visualization 
 
 - [x] 1-some vis 
 - [x] 2-graph grammary
