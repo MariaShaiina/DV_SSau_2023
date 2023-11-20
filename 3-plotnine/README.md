@@ -6,3 +6,4 @@
 - Размещение текста на графике;
 - Сохранение графиков.
 
+Установка [MacTeX](https://www.tug.org/mactex/mactex-download.html)
