@@ -6,7 +6,7 @@
 - Размещение текста на графике;
 - Сохранение графиков.
 
-[Установка MacTeX](https://www.tug.org/mactex/mactex-download.html)    
+Установка[MacTeX](https://www.tug.org/mactex/mactex-download.html)    
 
 ## macOS
 Если Homebrew не установлен, установите его следующей командой:
