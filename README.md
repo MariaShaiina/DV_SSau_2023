@@ -3,4 +3,5 @@
 
 - [x] 1-some vis 
 - [x] 2-graph grammary
-- [ ] 3-plotnine
+- [x] 3-plotnine
+- [x] 4-tidy data
